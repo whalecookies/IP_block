@@ -1,0 +1,1 @@
+This script can be installed in the HTML header on websites or blogs to block and redirect specific IPs or ranges of IPs. Regex included in the code will redirect all IPs originating from Ireland, but can be replaced with appropriate Regex to block all IPs from any country.
